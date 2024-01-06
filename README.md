@@ -1,6 +1,6 @@
 ![BHP_website](https://github.com/MVKrish17/BanglorePricePredictionMLproject1/assets/155152270/647c2748-056c-4a76-832c-984c1d01cd3a)
 This data science project series focuses on guiding the audience through the comprehensive process of constructing a real estate price prediction website. The project involving the creation of a predictive model using Scikit-learn library which contains linear regression, build using Bangalore home prices dataset from Kaggle.com. The subsequent steps involve establishing a Python Flask server to handle HTTP requests and serve model predictions. The final component of the project involves designing a user-friendly website using HTML, CSS, and JavaScript, enabling users to input property specifications. The website interacts with the Flask server to retrieve and display predicted property prices. Throughout the model development phase, a wide array of data science concepts are explored, encompassing data preprocessing, outlier detection, feature engineering, dimensionality reduction, and evaluating the model ability using K-fold cross-validation. This project encompasses a diverse set of technologies and tools.<br></br>
-<b>STEPS TO CREATE THE PROJECT:</b><br></br>
+<b>STEPS TO CREATE THE PROJECT:</b>
 <div>
         1. Data Collection and Cleaning:
         <div style="text-align:left">
