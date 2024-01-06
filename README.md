@@ -3,6 +3,7 @@ This data science project series focuses on guiding the audience through the com
 
 
 **STEPS TO CREATE THE PROJECT:**
+
         1. Data Collection and Cleaning:
              Download the Bangalore home prices dataset from Kaggle.
              Clean the dataset by handling missing values and outliers.
@@ -11,14 +12,17 @@ This data science project series focuses on guiding the audience through the com
              Engage in feature engineering to enhance model accuracy.
              Apply dimensionality reduction methods to handle high-dimensional data.
              To evaluate the model ability using cross-validation.
+            
         2. Model Development:
              Utilize Scikit-learn library to create a linear regression model.
              Split the dataset into training and testing sets.
              Train the model using the training data.
              Evaluate the model's performance using appropriate metrics.
+            
         3. Python Flask Server:
              Develop a Flask server that loads the trained model.
              Create endpoints to handle HTTP requests and return predictions.
+            
         4. Website Design:
              Design a user-friendly website using HTML, CSS, and JavaScript.
              Implement input fields for property features (square ft area, bedrooms, etc.).
